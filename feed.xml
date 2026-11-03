@@ -9,7 +9,8 @@
 <itunes:author>Uno</itunes:author>
 <itunes:type>serial</itunes:type>
 <itunes:explicit>false</itunes:explicit>
-<itunes:image href="https://elitachen.github.io/study-podcast/cover.png"/>
+<itunes:image href="https://elitachen.github.io/study-podcast/cover.png?v=2"/>
+<image><url>https://elitachen.github.io/study-podcast/cover.png?v=2</url><title>Systems Design Study</title><link>https://elitachen.github.io/study-podcast/</link></image>
 <itunes:block>Yes</itunes:block>
 <item>
 <title>A6: Grounding, Connecting the Model to Real Information</title>
