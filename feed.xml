@@ -12,6 +12,126 @@
 <itunes:image href="https://elitachen.github.io/study-podcast/cover.png"/>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>A6: Grounding, Connecting the Model to Real Information</title>
+<guid isPermaLink="false">study-a6-grounding.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/a6-grounding.m4a" length="2016608" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:season>3</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>300</itunes:duration>
+</item>
+<item>
+<title>A5: Temperature, and the Four Principles of Prompting</title>
+<guid isPermaLink="false">study-a5-temperature-prompting.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/a5-temperature-prompting.m4a" length="1875528" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:season>3</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>278</itunes:duration>
+</item>
+<item>
+<title>A4: Tokens, Embeddings, and Attention</title>
+<guid isPermaLink="false">study-a4-tokens-attention.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/a4-tokens-attention.m4a" length="1853125" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:season>3</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>272</itunes:duration>
+</item>
+<item>
+<title>A3: The Product Layer, Where Design Lives</title>
+<guid isPermaLink="false">study-a3-product-layer.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/a3-product-layer.m4a" length="1945523" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:season>3</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>292</itunes:duration>
+</item>
+<item>
+<title>A2: Where the Limits Come From</title>
+<guid isPermaLink="false">study-a2-limits.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/a2-limits.m4a" length="1997516" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:season>3</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>297</itunes:duration>
+</item>
+<item>
+<title>A1: What a Language Model Is, and How It Is Trained</title>
+<guid isPermaLink="false">study-a1-language-models.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/a1-language-models.m4a" length="1920453" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>283</itunes:duration>
+</item>
+<item>
+<title>W10: Your Spectrum Map</title>
+<guid isPermaLink="false">study-w10-spectrum-map.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/w10-spectrum-map.m4a" length="2067296" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 13:00:00 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>27</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>303</itunes:duration>
+</item>
+<item>
+<title>W9: How to Read This Kind of Research</title>
+<guid isPermaLink="false">study-w9-reading-research.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/w9-reading-research.m4a" length="2104929" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>26</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>308</itunes:duration>
+</item>
+<item>
+<title>W8: Interfaces for Agents, Interfaces for People</title>
+<guid isPermaLink="false">study-w8-agents-and-people.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/w8-agents-and-people.m4a" length="2283507" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>25</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>330</itunes:duration>
+</item>
+<item>
+<title>W7: From Screen to Space</title>
+<guid isPermaLink="false">study-w7-screen-to-space.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/w7-screen-to-space.m4a" length="2218808" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>24</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>322</itunes:duration>
+</item>
+<item>
+<title>W5: Four Gaps, a Design Agenda</title>
+<guid isPermaLink="false">study-w5-four-gaps.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/w5-four-gaps.m4a" length="2227736" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 09:00:00 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>23</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>320</itunes:duration>
+</item>
+<item>
+<title>W2: How a Video Model Becomes a Live Interface</title>
+<guid isPermaLink="false">study-w2-live-interface.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/w2-live-interface.m4a" length="2184549" type="audio/x-m4a"/>
+<pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>22</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>313</itunes:duration>
+</item>
+<item>
 <title>S7: One Meaning, Many Platforms</title>
 <guid isPermaLink="false">study-s7-many-platforms.m4a</guid>
 <enclosure url="https://elitachen.github.io/study-podcast/s7-many-platforms.m4a" length="2366579" type="audio/x-m4a"/>
