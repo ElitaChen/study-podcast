@@ -13,6 +13,146 @@
 <image><url>https://elitachen.github.io/study-podcast/cover.png?v=2</url><title>Systems Design Study</title><link>https://elitachen.github.io/study-podcast/</link></image>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>S5.14: System Specs, Not Just Screen Specs</title>
+<guid isPermaLink="false">study-s5-14-system-specs.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-14-system-specs.m4a" length="5268324" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 21:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>14</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>718</itunes:duration>
+</item>
+<item>
+<title>S5.13: A System Map for One Feature</title>
+<guid isPermaLink="false">study-s5-13-system-maps.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-13-system-maps.m4a" length="4745048" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 20:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>13</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>651</itunes:duration>
+</item>
+<item>
+<title>S5.12: One Feature, Many Surfaces</title>
+<guid isPermaLink="false">study-s5-12-surfaces.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-12-surfaces.m4a" length="4959028" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>675</itunes:duration>
+</item>
+<item>
+<title>S5.11: How Failure Spreads</title>
+<guid isPermaLink="false">study-s5-11-failure.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-11-failure.m4a" length="4860452" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 18:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>663</itunes:duration>
+</item>
+<item>
+<title>S5.10: Defaults and Settings as System Design</title>
+<guid isPermaLink="false">study-s5-10-defaults.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-10-defaults.m4a" length="4598436" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>633</itunes:duration>
+</item>
+<item>
+<title>S5.9: How Features Collide</title>
+<guid isPermaLink="false">study-s5-09-feature-collisions.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-09-feature-collisions.m4a" length="4818162" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>659</itunes:duration>
+</item>
+<item>
+<title>S5.8: Where AI Sits in the Architecture</title>
+<guid isPermaLink="false">study-s5-08-ai-architecture.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-08-ai-architecture.m4a" length="5104000" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>698</itunes:duration>
+</item>
+<item>
+<title>S5.7: APIs as Contracts</title>
+<guid isPermaLink="false">study-s5-07-apis.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-07-apis.m4a" length="4703550" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>639</itunes:duration>
+</item>
+<item>
+<title>S5.6: Permissions, Privacy, and Identity</title>
+<guid isPermaLink="false">study-s5-06-permissions.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-06-permissions.m4a" length="4816144" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>660</itunes:duration>
+</item>
+<item>
+<title>S5.5: Events and Background Work</title>
+<guid isPermaLink="false">study-s5-05-background.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-05-background.m4a" length="4751959" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>645</itunes:duration>
+</item>
+<item>
+<title>S5.4: Speed, Caching, and Optimistic Interfaces</title>
+<guid isPermaLink="false">study-s5-04-speed.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-04-speed.m4a" length="4924245" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>674</itunes:duration>
+</item>
+<item>
+<title>S5.3: State and Sync, Offline and Many Devices</title>
+<guid isPermaLink="false">study-s5-03-state-and-sync.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-03-state-and-sync.m4a" length="5213383" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>707</itunes:duration>
+</item>
+<item>
+<title>S5.2: Data Models, The Objects Behind Every Screen</title>
+<guid isPermaLink="false">study-s5-02-data-models.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-02-data-models.m4a" length="5172421" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>708</itunes:duration>
+</item>
+<item>
+<title>S5.1: Anatomy of an App, and Where State Lives</title>
+<guid isPermaLink="false">study-s5-01-anatomy.m4a</guid>
+<enclosure url="https://elitachen.github.io/study-podcast/s5-01-anatomy.m4a" length="5278973" type="audio/x-m4a"/>
+<pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+<itunes:season>5</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>718</itunes:duration>
+</item>
+<item>
 <title>U2: Measuring Trust</title>
 <guid isPermaLink="false">study-u2-measuring-trust-v2.m4a</guid>
 <enclosure url="https://elitachen.github.io/study-podcast/u2-measuring-trust-v2.m4a" length="4591300" type="audio/x-m4a"/>
